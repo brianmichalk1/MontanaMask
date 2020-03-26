@@ -17,3 +17,4 @@ Use case:
 * A volunteer with a printer downloads the mask project.  The project contains the mask STL files, as well as a PDF packing slip, and perhaps a USPS shipping label.
 * Volunteer prints the mask, places it in a box and mails it to the location on the label.
 * Volunteer then marks the project as complete.
+* End user receives physical mask.  End user installs the filter and elastic band.
