@@ -10,9 +10,10 @@ Use case:
 * End user (health care professional) installs app on phone.
 * The app collects information such as name, phone number, email and shipping address.  
 * The app 3D scans a face.
-* From that scan, the app creates the mask/face intersection line.
-* A surface is lofted from that intersecion line to a standard filter boss.
-* An STL file is created from the loft, and is transmitted to a central server.
+* The app creates the mask/face intersection line from the 3D scan.
+* The app processes the scan, a surface is lofted from that intersecion line to one of several standard filter bosses.
+* The app creates an STL file from the loft, and transmits the information to a central server.
+* The app alternately emails the STL file to any email address, suitable for printing.
 * The central server lists masks that have been requested, and tracks these.
 * A volunteer with a printer downloads the mask project.  The project contains the mask STL files, as well as a PDF packing slip, and perhaps a USPS shipping label.
 * Volunteer prints the mask, places it in a box and mails it to the location on the label.
