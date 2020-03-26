@@ -19,3 +19,9 @@ Use case:
 * Volunteer prints the mask, places it in a box and mails it to the location on the label.
 * Volunteer then marks the project as complete.
 * End user receives physical mask.  End user installs the filter and elastic band.
+
+I need experts in the following areas:
+* App development
+* 3D scanning
+* STL editing
+* Back end services
